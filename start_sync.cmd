@@ -1,0 +1,1 @@
+pwsh -Command "d:;cd D:\Scripts\DNSSync;.\Scripts\activate; py DNSSync.py"
